@@ -15,7 +15,7 @@ This repository contains a Python class, `JsonFileHandler`, for managing JSON fi
 To use the `JsonFileHandler` class, simply clone this repository and include the `json_file_handler.py` file in your project.
 
 ```bash
-git clone https://github.com/Victor-Nikliaiev/Custom_hashable_dic.git
+git clone https://github.com/Victor-Nikliaiev/Json_file_handler.git
 ```
 
 ## Usage Example
@@ -52,7 +52,3 @@ for index, user in zip(range(len(data)), data):
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Victor Nikliaiev, 2024
